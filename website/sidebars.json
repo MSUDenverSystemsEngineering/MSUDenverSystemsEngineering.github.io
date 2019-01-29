@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Images": ["images"],
+    "Packages": ["selfservice", "softwarecenter"],
+    "Labs": ["labs"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
