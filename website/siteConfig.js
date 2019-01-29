@@ -40,7 +40,7 @@ const siteConfig = {
   title: 'Systems Engineering Wiki', // Title for your website.
   tagline: 'Our internal garbage',
   url: 'https://msudenversystemsengineering.github.io', // Your website URL
-  baseUrl: '/MSUDenverSystemsEngineering.github.io/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
