@@ -21,11 +21,11 @@
       "doc5": {
         "title": "Fifth Document"
       },
-      "generallabs-mac": {
+      "mac-generallabs": {
         "title": "General Labs",
         "sidebar_label": "General Labs"
       },
-      "generallabs-win": {
+      "win-generallabs": {
         "title": "General Labs",
         "sidebar_label": "General Labs"
       },
@@ -61,11 +61,11 @@
         "title": "Labs",
         "sidebar_label": "Labs"
       },
-      "vlc-mac": {
+      "mac-vlc": {
         "title": "VLC Media Player",
         "sidebar_label": "VLC"
       },
-      "vlc-win": {
+      "win-vlc": {
         "title": "VLC Media Player",
         "sidebar_label": "VLC"
       },
@@ -80,18 +80,24 @@
       "packages": {
         "title": "Packages",
         "sidebar_label": "Packages"
+      },
+      "printers": {
+        "title": "Printers",
+        "sidebar_label": "Printers"
       }
     },
     "links": {
       "Images": "Images",
       "Labs": "Labs",
       "Packages": "Packages",
+      "Printers": "Printers",
       "Help": "Help"
     },
     "categories": {
       "Images": "Images",
       "Packages": "Packages",
       "Labs": "Labs",
+      "Printers": "Printers",
       "First Category": "First Category"
     }
   },

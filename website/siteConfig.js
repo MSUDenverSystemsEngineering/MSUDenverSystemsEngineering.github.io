@@ -63,6 +63,7 @@ const siteConfig = {
     {doc: 'images', label: 'Images'},
     {doc: 'labs', label: 'Labs'},
     {doc: 'packages', label: 'Packages'},
+    {doc: 'printers', label: 'Printers'},
     {page: 'help', label: 'Help'}
   ],
 

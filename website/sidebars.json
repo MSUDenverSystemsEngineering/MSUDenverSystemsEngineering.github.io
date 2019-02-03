@@ -6,14 +6,14 @@
       "type": "subcategory",
         "label": "macOS",
         "ids": [
-          "generallabs-mac"
+          "mac-generallabs"
         ]
       },
       {
       "type": "subcategory",
         "label": "Windows",
         "ids": [
-          "generallabs-win"
+          "win-generallabs"
         ]
       }
     ],
@@ -24,7 +24,7 @@
         "label": "macOS",
         "ids": [
           "selfservice",
-          "vlc-mac"
+          "mac-vlc"
         ]
       },
       {
@@ -32,7 +32,7 @@
         "label": "Windows",
         "ids": [
           "softwarecenter",
-          "vlc-win"
+          "win-vlc"
         ]
       }
     ],
@@ -44,6 +44,9 @@
       "WC244C",
       "WC244D",
       "WC244OP"
+    ],
+    "Printers": [
+      "printers"
     ]
   },
   "docs-other": {
