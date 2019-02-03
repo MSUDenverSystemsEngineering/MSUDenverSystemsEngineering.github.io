@@ -62,7 +62,7 @@ const siteConfig = {
   headerLinks: [
     {doc: 'images', label: 'Images'},
     {doc: 'labs', label: 'Labs'},
-    {doc: 'packages', label: 'Packages'}
+    {doc: 'packages', label: 'Packages'},
     {page: 'help', label: 'Help'}
   ],
 
