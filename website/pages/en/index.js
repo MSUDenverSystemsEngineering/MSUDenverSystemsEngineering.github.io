@@ -163,7 +163,7 @@ class Index extends React.Component {
             title: 'Packages',
           },
           {
-            content: 'The make and model of all of our managed printer, and the print server where you can find them.',
+            content: 'The make and model of all of our managed printers, and the print server where you can find them.',
             image: `${baseUrl}img/ios-print.svg`,
             imageAlign: 'top',
             title: 'Printers',

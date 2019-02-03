@@ -66,6 +66,8 @@ const siteConfig = {
     {page: 'help', label: 'Help'}
   ],
 
+  docsSideNavCollapsible: true,
+
   // If you have users set above, you add it here:
   users,
 
@@ -112,6 +114,7 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: 'img/docusaurus.png',
+  twitter: 'false',
   twitterImage: 'img/docusaurus.png',
 
   // Show documentation's last contributor's name.

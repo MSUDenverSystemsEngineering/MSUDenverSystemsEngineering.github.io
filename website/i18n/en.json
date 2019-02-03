@@ -21,17 +21,53 @@
       "doc5": {
         "title": "Fifth Document"
       },
+      "generallabs-mac": {
+        "title": "General Labs",
+        "sidebar_label": "General Labs"
+      },
+      "generallabs-win": {
+        "title": "General Labs",
+        "sidebar_label": "General Labs"
+      },
       "images": {
         "title": "Images",
         "sidebar_label": "Images"
+      },
+      "TV225": {
+        "title": "Tivoli 225",
+        "sidebar_label": "Tivoli 225"
+      },
+      "WC244A": {
+        "title": "West Classroom 244A",
+        "sidebar_label": "West 244A"
+      },
+      "WC244B": {
+        "title": "West Classroom 244B",
+        "sidebar_label": "West 244B"
+      },
+      "WC244C": {
+        "title": "West Classroom 244C",
+        "sidebar_label": "West 244C"
+      },
+      "WC244D": {
+        "title": "West Classroom 244D",
+        "sidebar_label": "West 244D"
+      },
+      "WC244OP": {
+        "title": "West Classroom 244 Open Area",
+        "sidebar_label": "West 244OP"
       },
       "labs": {
         "title": "Labs",
         "sidebar_label": "Labs"
       },
-      "packages": {
-        "title": "Packages",
-        "sidebar_label": "Packages"
+      "vlc-mac": {
+        "title": "VLC Media Player",
+        "sidebar_label": "VLC"
+      },
+      "vlc-win": {
+        "title": "VLC Media Player",
+        "sidebar_label": "VLC"
       },
       "selfservice": {
         "title": "Self Service",
@@ -40,11 +76,16 @@
       "softwarecenter": {
         "title": "Software Center",
         "sidebar_label": "Software Center"
+      },
+      "packages": {
+        "title": "Packages",
+        "sidebar_label": "Packages"
       }
     },
     "links": {
       "Images": "Images",
       "Labs": "Labs",
+      "Packages": "Packages",
       "Help": "Help"
     },
     "categories": {

@@ -1,8 +1,50 @@
 {
   "docs": {
-    "Images": ["images"],
-    "Packages": ["selfservice", "softwarecenter"],
-    "Labs": ["labs"]
+    "Images": [
+      "images",
+      {
+      "type": "subcategory",
+        "label": "macOS",
+        "ids": [
+          "generallabs-mac"
+        ]
+      },
+      {
+      "type": "subcategory",
+        "label": "Windows",
+        "ids": [
+          "generallabs-win"
+        ]
+      }
+    ],
+    "Packages": [
+      "packages",
+      {
+      "type": "subcategory",
+        "label": "macOS",
+        "ids": [
+          "selfservice",
+          "vlc-mac"
+        ]
+      },
+      {
+      "type": "subcategory",
+        "label": "Windows",
+        "ids": [
+          "softwarecenter",
+          "vlc-win"
+        ]
+      }
+    ],
+    "Labs": [
+      "labs",
+      "TV225",
+      "WC244A",
+      "WC244B",
+      "WC244C",
+      "WC244D",
+      "WC244OP"
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

@@ -2,6 +2,7 @@
 id: labs
 title: Labs
 sidebar_label: Labs
+custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io/edit/source/docs/labs.md
 ---
 
 This section will have the rooms with devices we maintain.
@@ -16,8 +17,9 @@ This section will have the rooms with devices we maintain.
 * Central Classroom 311H
 * Plaza 124
 * Plaza 307
-* Tivoli 225
-* West Classroom 244A
-* West Classroom 244B
-* West Classroom 244C
-* West Classroom 244D
+* [Tivoli 225](lab-TV225.md)
+* [West Classroom 244A](lab-WC244A.md)
+* [West Classroom 244B](lab-WC244B.md)
+* [West Classroom 244C](lab-WC244C.md)
+* [West Classroom 244D](lab-WC244D.md)
+* [West Classroom 244 Open Area](lab-WC244OP.md)
