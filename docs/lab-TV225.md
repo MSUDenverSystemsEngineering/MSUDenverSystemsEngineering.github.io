@@ -6,7 +6,7 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 ---
 
 ## macOS
-[General Labs](image-generallabs-mac.md)
+[General Labs](image-mac-generallabs.md)
 
 ## Windows
-[General Labs](image-generallabs-win.md)
+[General Labs](image-win-generallabs.md)
