@@ -204,7 +204,7 @@ class Index extends React.Component {
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
-              More {siteConfig.title} Maintainers
+              View {siteConfig.title} Maintainers
             </a>
           </div>
         </div>
