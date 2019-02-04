@@ -10,3 +10,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 ## Printer
 [AES250HP](printer-AES250HP.md)
+
+## Notes

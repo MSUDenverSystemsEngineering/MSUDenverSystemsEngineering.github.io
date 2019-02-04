@@ -42,6 +42,7 @@
         "ids": [
           "selfservice",
           "mac-audacity",
+          "mac-supercollider",
           "mac-vlc"
         ]
       },
@@ -62,6 +63,16 @@
       "AES250",
       "AES285",
       "CN108",
+      "CN111",
+      "CN113",
+      "CN114",
+      "CN117",
+      "CN118",
+      "CN119U",
+      "CN309",
+      "CN311F",
+      "CN311G",
+      "CN311H",
       "NP1033",
       "PL246",
       "TV225",

@@ -9,3 +9,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 [General Labs](image-win-generallabs.md)
 
 ## Printers
+
+## Notes

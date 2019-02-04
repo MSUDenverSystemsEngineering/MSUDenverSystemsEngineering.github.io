@@ -10,4 +10,5 @@ OS X El Capitan 10.11.6
 
 ## Applications
 * [Audacity](package-mac-audacity.md)
+* [SuperCollider](package-mac-supercollider.md)
 * [VLC Media Player](package-mac-vlc.md)

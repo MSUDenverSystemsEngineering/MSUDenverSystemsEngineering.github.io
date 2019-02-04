@@ -7,3 +7,7 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 ## macOS Image
 [Admin Image](image-mac-admin.md)
+
+## Windows Image
+
+## Notes

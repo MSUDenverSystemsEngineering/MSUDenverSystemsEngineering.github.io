@@ -7,3 +7,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 ## macOS Image
 [Computer Science](image-mac-computerscience.md)
+
+## Notes

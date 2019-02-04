@@ -9,3 +9,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 [Music](image-mac-music.md)
 
 ## Printer
+
+## Notes

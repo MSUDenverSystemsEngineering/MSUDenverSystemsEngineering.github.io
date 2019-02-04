@@ -7,3 +7,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 ## macOS Image
 [Recording Booth](image-mac-computerscience.md)
+
+## Notes

@@ -26,6 +26,7 @@ This section will have the rooms with devices we maintain.
 * [CN 119U](lab-CN119U.md)
 * [CN 309](lab-CN309.md)
 * [CN 311F](lab-CN311F.md)
+* [CN 311G](lab-CN311G.md)
 * [CN 311H](lab-CN311H.md)
 
 ## Ninth Street Park
