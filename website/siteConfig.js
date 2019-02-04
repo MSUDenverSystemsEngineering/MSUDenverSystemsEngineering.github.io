@@ -40,7 +40,7 @@ const siteConfig = {
   title: 'Systems Engineering Docs', // Title for your website.
   tagline: 'Managed resources',
   url: 'https://msudenversystemsengineering.github.io', // Your website URL
-  baseUrl: '/MSUDenverSystemsEngineering.github.io/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -129,6 +129,7 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io'
 };
 
 module.exports = siteConfig;
