@@ -31,10 +31,10 @@ class Users extends React.Component {
           <div className="showcaseSection">
             <div className="prose">
               <h1>Who is doing this?</h1>
-              <p>This site is being maintained by the MSU Denver Systems Engineers</p>
+              <p>These docs are being maintained by the MSU Denver Systems Engineers.</p>
             </div>
             <div className="logos">{showcase}</div>
-            <p>Are you contributing to this documentation too?</p>
+            <p>Are you contributing to these docs too?</p>
             <a href={editUrl} className="button">
               Add yo self
             </a>

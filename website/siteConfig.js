@@ -11,19 +11,19 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'Steve',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/docusaurus.svg'.
-    image: '/img/logo.svg',
-    infoLink: 'https://webapp.msudenver.edu/directory/profile.php?uName=spatte30',
-    pinned: true,
-  },
-  {
     caption: 'Jordan',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/docusaurus.svg'.
     image: '/img/logo.svg',
     infoLink: 'https://webapp.msudenver.edu/directory/profile.php?uName=jhamil50',
+    pinned: true,
+  },
+  {
+    caption: 'Steve',
+    // You will need to prepend the image path with your baseUrl
+    // if it is not '/', like: '/test-site/img/docusaurus.svg'.
+    image: '/img/logo.svg',
+    infoLink: 'https://webapp.msudenver.edu/directory/profile.php?uName=spatte30',
     pinned: true,
   },
   {

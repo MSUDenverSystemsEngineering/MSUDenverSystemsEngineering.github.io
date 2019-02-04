@@ -64,9 +64,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+            <Button href="#try">Get Started</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -96,8 +94,8 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>Never wonder what goes where again.</h2>
+        <MarkdownBlock>Get a clearer picture of the image in a classroom, what's in an image, and any other customizations. We believe having a searchable, consolidated place to reference all this information will give you what you need to know to successfully provide service for more areas on campus.</MarkdownBlock>
       </div>
     );
 
@@ -145,8 +143,14 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
+            content: 'MSU Denver supported hardware used to run our images.',
+            image: `${baseUrl}img/ios-desktop.svg`,
+            imageAlign: 'top',
+            title: 'Hardware',
+          },
+          {
             content: 'A clean way to look up the packages and settings in our images, as well as which areas should have each image.',
-            image: `${baseUrl}img/ios-laptop.svg`,
+            image: `${baseUrl}img/ios-apps.svg`,
             imageAlign: 'top',
             title: 'Images',
           },
@@ -157,10 +161,10 @@ class Index extends React.Component {
             title: 'Labs',
           },
           {
-            content: 'A list of all of our customized packages, the magic we did to make them, and which images include them.',
-            image: `${baseUrl}img/ios-cube.svg`,
+            content: 'A list of all of our packaged software, the magic we did to make them, and which images include them.',
+            image: `${baseUrl}img/ios-appstore.svg`,
             imageAlign: 'top',
-            title: 'Packages',
+            title: 'Software',
           },
           {
             content: 'The make and model of all of our managed printers, the print server where you can find them, and which areas use them.',
@@ -169,7 +173,7 @@ class Index extends React.Component {
             title: 'Printers',
           },
           {
-            content: 'The preferences, policies, configurations and other boring changes designed to keep each area and image running smoothly.',
+            content: 'The preferences, policies, configurations and any other changes designed to keep each area and image running smoothly.',
             image: `${baseUrl}img/ios-cog.svg`,
             imageAlign: 'top',
             title: 'Settings',
@@ -196,11 +200,11 @@ class Index extends React.Component {
       return (
         <div className="productShowcaseSection paddingBottom">
           <h2>Who is Doing This?</h2>
-          <p>This site is being maintained by all kinds of people</p>
+          <p>These docs are being maintained the MSU Denver Systems Engineers</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
-              More {siteConfig.title} Users
+              More {siteConfig.title} Maintainers
             </a>
           </div>
         </div>
