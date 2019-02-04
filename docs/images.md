@@ -24,7 +24,7 @@ This is a running list of different images we have for different departments, an
 * [Photography](image-mac-photography.md)
 * [Recording Booth](image-mac-recordingbooth.md)
 * [Technical Communication](image-mac-technicalcommunication.md)
-* [Theatre](image-mac-art-theatre.md)
+* [Theatre](image-mac-theatre.md)
 
 ## Windows
 * [General Labs](image-win-generallabs.md)

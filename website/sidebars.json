@@ -15,6 +15,7 @@
           "mac-computerscience",
           "mac-digitalmedia",
           "mac-dimedenver",
+          "mac-facultylab",
           "mac-generallabs",
           "mac-journalism",
           "mac-metmedia",
@@ -40,6 +41,7 @@
         "label": "macOS",
         "ids": [
           "selfservice",
+          "mac-audacity",
           "mac-vlc"
         ]
       },
@@ -54,7 +56,16 @@
     ],
     "Labs": [
       "labs",
+      "AD460",
+      "AES210",
+      "AES220",
+      "AES250",
+      "AES285",
+      "CN108",
+      "NP1033",
+      "PL246",
       "TV225",
+      "WC243",
       "WC244A",
       "WC244B",
       "WC244C",
@@ -63,7 +74,8 @@
     ],
     "Printers": [
       "printers",
-      "AES237HP"
+      "AES237HP",
+      "AES250HP"
     ]
   },
   "docs-other": {

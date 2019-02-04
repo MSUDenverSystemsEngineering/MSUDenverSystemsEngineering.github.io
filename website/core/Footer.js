@@ -37,8 +37,8 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
-              Getting Started (or other categories)
+            <a href={this.docUrl('gettingstarted.html', this.props.language)}>
+              Getting Started
             </a>
             <a href={this.docUrl('doc2.html', this.props.language)}>
               Guides (or other categories)
@@ -70,8 +70,8 @@ class Footer extends React.Component {
           </div>
         </section>
 
-        /*<a
-          href="https://code.facebook.com/projects/"
+        <a
+          href="https://msudenver.edu/technology"
           target="_blank"
           rel="noreferrer noopener"
           className="fbOpenSource">
@@ -81,7 +81,7 @@ class Footer extends React.Component {
             width="170"
             height="45"
           />
-        </a>*/
+        </a>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );

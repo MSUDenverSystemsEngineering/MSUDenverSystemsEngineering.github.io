@@ -7,3 +7,12 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 ## Version
 3.0.6
+
+## Where to Find It
+
+## Vendor Website
+https://www.videolan.org
+
+## Customizations
+
+## Build Notes

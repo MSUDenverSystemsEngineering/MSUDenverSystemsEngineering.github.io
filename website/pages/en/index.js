@@ -151,19 +151,19 @@ class Index extends React.Component {
             title: 'Images',
           },
           {
-            content: 'A comprehensive-ish list of labs, classrooms, conference rooms, restrooms, and other learning spaces that should have devices with our images',
+            content: 'A comprehensive-ish list of labs, classrooms, conference rooms, restrooms, and other learning spaces that should have devices with our images.',
             image: `${baseUrl}img/ios-school.svg`,
             imageAlign: 'top',
             title: 'Labs',
           },
           {
-            content: 'A list of all of our customized packages, and the magic we did to make them.',
+            content: 'A list of all of our customized packages, the magic we did to make them, and which images include them.',
             image: `${baseUrl}img/ios-cube.svg`,
             imageAlign: 'top',
             title: 'Packages',
           },
           {
-            content: 'The make and model of all of our managed printers, and the print server where you can find them.',
+            content: 'The make and model of all of our managed printers, the print server where you can find them, and which areas use them.',
             image: `${baseUrl}img/ios-print.svg`,
             imageAlign: 'top',
             title: 'Printers',

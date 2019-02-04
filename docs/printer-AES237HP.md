@@ -6,4 +6,6 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 ---
 
 ## Location
-Aerospace and Engineering Sciences 237
+Aerospace and Engineering Sciences Building 237
+
+## Notes
