@@ -168,6 +168,12 @@ class Index extends React.Component {
             imageAlign: 'top',
             title: 'Printers',
           },
+          {
+            content: 'The preferences, policies, configurations and other boring changes designed to keep each area and image running smoothly.',
+            image: `${baseUrl}img/ios-cog.svg`,
+            imageAlign: 'top',
+            title: 'Settings',
+          },
         ]}
       </Block>
     );
