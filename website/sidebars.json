@@ -6,7 +6,9 @@
       "type": "subcategory",
         "label": "macOS",
         "ids": [
-          "mac-generallabs"
+          "mac-computerscience",
+          "mac-generallabs",
+          "mac-metmedia"
         ]
       },
       {
@@ -46,7 +48,8 @@
       "WC244OP"
     ],
     "Printers": [
-      "printers"
+      "printers",
+      "AES237HP"
     ]
   },
   "docs-other": {
