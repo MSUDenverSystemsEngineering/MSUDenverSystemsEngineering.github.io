@@ -6,9 +6,23 @@
       "type": "subcategory",
         "label": "macOS",
         "ids": [
+          "mac-admin",
+          "mac-art",
+          "mac-artcheckouts",
+          "mac-artfoundations",
+          "mac-biology",
+          "mac-communicationartsandsciences",
           "mac-computerscience",
+          "mac-digitalmedia",
+          "mac-dimedenver",
           "mac-generallabs",
-          "mac-metmedia"
+          "mac-journalism",
+          "mac-metmedia",
+          "mac-music",
+          "mac-photography",
+          "mac-recordingbooth",
+          "mac-technicalcommunication",
+          "mac-theatre"
         ]
       },
       {
