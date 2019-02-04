@@ -38,7 +38,7 @@
       }
     ],
     "Software": [
-      "Software",
+      "software",
       {
       "type": "subcategory",
         "label": "macOS",
