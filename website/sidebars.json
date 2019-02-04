@@ -1,7 +1,7 @@
 {
   "docs": {
     "Hardware": [
-      "hardware",
+      "hardware"
     ],
     "Images": [
       "images",
@@ -92,7 +92,7 @@
       "AES250HP"
     ],
     "Settings": [
-      "settings",
+      "settings"
     ]
   },
   "docs-other": {
