@@ -9,4 +9,4 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 
 
 ## Applications
-* [VLC Media Player](package-win-vlc.md)
+* [VLC Media Player](software-win-vlc.md)

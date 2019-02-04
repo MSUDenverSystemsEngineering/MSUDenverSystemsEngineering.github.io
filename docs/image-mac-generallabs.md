@@ -9,5 +9,5 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 macOS High Sierra 10.13.6
 
 ## Applications
-* [Audacity](package-mac-audacity.md)
-* [VLC Media Player](package-mac-vlc.md)
+* [Audacity](software-mac-audacity.md)
+* [VLC Media Player](software-mac-vlc.md)

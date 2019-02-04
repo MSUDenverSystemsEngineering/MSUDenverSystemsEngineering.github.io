@@ -1,5 +1,8 @@
 {
   "docs": {
+    "Hardware": [
+      "hardware",
+    ],
     "Images": [
       "images",
       {
@@ -34,8 +37,8 @@
         ]
       }
     ],
-    "Packages": [
-      "packages",
+    "Software": [
+      "Software",
       {
       "type": "subcategory",
         "label": "macOS",
@@ -87,6 +90,9 @@
       "printers",
       "AES237HP",
       "AES250HP"
+    ],
+    "Settings": [
+      "settings",
     ]
   },
   "docs-other": {

@@ -37,10 +37,10 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Systems Engineering Wiki', // Title for your website.
-  tagline: 'Our internal garbage',
+  title: 'Systems Engineering Docs', // Title for your website.
+  tagline: 'Managed resources',
   url: 'https://msudenversystemsengineering.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/MSUDenverSystemsEngineering.github.io/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -60,9 +60,11 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
+    {doc: 'hardware', label: 'Hardware'},
     {doc: 'images', label: 'Images'},
     {doc: 'labs', label: 'Labs'},
-    {doc: 'packages', label: 'Packages'},
+    {doc: 'Settings', label: 'Settings'},
+    {doc: 'software', label: 'Software'},
     {doc: 'printers', label: 'Printers'},
     {page: 'help', label: 'Help'}
   ],
