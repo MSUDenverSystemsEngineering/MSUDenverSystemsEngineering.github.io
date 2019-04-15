@@ -2,7 +2,6 @@
 id: mac-vlc
 title: VLC Media Player
 sidebar_label: VLC
-custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io/edit/source/docs/software-mac-vlc.md
 ---
 
 ## Version
@@ -14,5 +13,8 @@ custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystems
 https://www.videolan.org
 
 ## Customizations
+* A configuration profile for VLC suppresses any first-run dialog boxes and the automatic update checker.
 
 ## Build Notes
+* VLC is downloaded and packaged automatically using AutoPkg.
+* This package creates a symlink to the application in the **Media Applications** management folder, if the folder exists.
