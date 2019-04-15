@@ -2,7 +2,6 @@
 id: gettingstarted
 title: Getting Started
 sidebar_label: Getting Started
-custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io/edit/source/docs/gettingstarted.md
 ---
 
 ## Lorem

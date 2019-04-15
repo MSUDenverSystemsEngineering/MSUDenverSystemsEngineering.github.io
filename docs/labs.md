@@ -2,7 +2,6 @@
 id: labs
 title: Labs
 sidebar_label: Labs
-custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io/edit/source/docs/labs.md
 ---
 
 This section will have the rooms with devices we maintain.
