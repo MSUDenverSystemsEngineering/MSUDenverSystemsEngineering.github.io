@@ -2,7 +2,6 @@
 id: doc1
 title: Latin-ish
 sidebar_label: Example Page
-custom_edit_url: https://github.com/MSUDenverSystemsEngineering/MSUDenverSystemsEngineering.github.io/edit/source/docs/doc1.md
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
