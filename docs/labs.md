@@ -43,11 +43,20 @@ This section will have the rooms with devices we maintain.
 * [KC 317](lab-KC317.md)
 * [KC 415](lab-KC415.md)
 
+## MSU Denver South Campus
+* [MS LL03](lab-MSLL03.md)
+* [MS LL04](lab-MSLL04.md)
+
 ## Ninth Street Park
 * [NP 1033](lab-NP1033.md)
 
+## Physical Education/Events Center
+* [PE 211](lab-PE211.md)
+
 ## Plaza Building
 * [PL 124](lab-PL124.md)
+* [PL 243](lab-PL243.md)
+* [PL 245](lab-PL245.md)
 * [PL 246](lab-PL246.md)
 * [PL 307A](lab-PL307A.md)
 * [PL 307B](lab-PL307B.md)
@@ -62,8 +71,14 @@ This section will have the rooms with devices we maintain.
 * [SI 1095](lab-SI1095.md)
 * [SI 2093](lab-SI2093.md)
 
+## Student Success Building
+* [SSB 236](lab-SSB236.md)
+* [SSB 304](lab-SSB304.md)
+
 ## Tivoli Student Union
 * [TV 225](lab-TV225.md)
+* [TV 305](lab-TV305.md)
+* [TV 313](lab-TV313.md)
 
 ## West Classroom Building
 * [WC 243](lab-WC243.md)

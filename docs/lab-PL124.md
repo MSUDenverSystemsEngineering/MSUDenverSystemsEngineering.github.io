@@ -5,9 +5,9 @@ sidebar_label: Plaza 124
 ---
 
 ## macOS Image
+[Admin Image](image-mac-admin.md)
 
 ## Windows Image
-
-## Printer
+[Admin Image](image-win-accesscenter.md)
 
 ## Notes

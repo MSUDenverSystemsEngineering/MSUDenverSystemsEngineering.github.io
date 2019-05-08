@@ -7,6 +7,6 @@ sidebar_label: King 260
 ## macOS Image
 [Theatre](image-mac-theatre.md)
 
-## Printer
+## Printers
 
 ## Notes
