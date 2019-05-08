@@ -70,6 +70,7 @@ const siteConfig = {
   ],
 
   docsSideNavCollapsible: true,
+  scrollToTop: true,
 
   // If you have users set above, you add it here:
   users,
@@ -114,6 +115,7 @@ const siteConfig = {
   onPageNav: 'separate',
   // No .html extensions for paths.
   cleanUrl: true,
+  noIndex: true,
 
   // Open Graph and Twitter card images.
   ogImage: 'img/docusaurus.png',
