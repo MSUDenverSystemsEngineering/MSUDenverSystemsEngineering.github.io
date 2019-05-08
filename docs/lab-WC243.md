@@ -8,6 +8,7 @@ sidebar_label: West 243
 [Faculty Lab](image-mac-facultylab.md)
 
 ## Windows Image
+[Faculty Lab](image-win-facultylab.md)
 
 ## Printer
 

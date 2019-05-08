@@ -5,6 +5,7 @@ sidebar_label: West 244A
 ---
 
 ## Windows Image
+[Nursing](image-win-nursing.md)
 
 ## Printers
 

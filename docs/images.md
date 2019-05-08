@@ -26,4 +26,9 @@ This is a running list of different images we have for different departments, an
 * [Theatre](image-mac-theatre.md)
 
 ## Windows
+* [Admin Image](image-win-admin.md)
+* [Chemistry](image-win-chemistry.md)
+* [College of Business](image-win-collegeofbusiness.md)
 * [General Labs](image-win-generallabs.md)
+* [ITS Faculty Lab](image-win-collegeofbusiness.md)
+* [Nursing](image-win-nursing.md)

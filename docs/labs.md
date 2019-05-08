@@ -7,6 +7,13 @@ sidebar_label: Labs
 This section will have the rooms with devices we maintain.
 
 ## Administration Building
+* [AD 215](lab-AD215.md)
+* [AD 245](lab-AD245.md)
+* [AD 250A](lab-AD250A.md)
+* [AD 250OP](lab-AD250OP.md)
+* [AD 260B](lab-AD260B.md)
+* [AD 260C](lab-AD260C.md)
+* [AD 260OP](lab-AD260OP.md)
 * [AD 460](lab-AD460.md)
 
 ## Aerospace and Engineering Sciences Building
@@ -24,9 +31,17 @@ This section will have the rooms with devices we maintain.
 * [CN 118](lab-CN118.md)
 * [CN 119U](lab-CN119U.md)
 * [CN 309](lab-CN309.md)
+* [CN 311E](lab-CN311E.md)
 * [CN 311F](lab-CN311F.md)
 * [CN 311G](lab-CN311G.md)
 * [CN 311H](lab-CN311H.md)
+* [CN 311K](lab-CN311K.md)
+
+## King Center
+* [KC 111](lab-KC111.md)
+* [KC 260](lab-KC260.md)
+* [KC 317](lab-KC317.md)
+* [KC 415](lab-KC415.md)
 
 ## Ninth Street Park
 * [NP 1033](lab-NP1033.md)
@@ -34,12 +49,18 @@ This section will have the rooms with devices we maintain.
 ## Plaza Building
 * [PL 124](lab-PL124.md)
 * [PL 246](lab-PL246.md)
-* [PL 307](lab-PL307.md)
+* [PL 307A](lab-PL307A.md)
+* [PL 307B](lab-PL307B.md)
+* [PL 307OP](lab-PL307OP.md)
 
 ## Science Building
+* [SI 1048](lab-SI1048.md)
+* [SI 1058](lab-SI1058.md)
+* [SI 1060](lab-SI1060.md)
 * [SI 1090](lab-SI1090.md)
 * [SI 1091](lab-SI1091.md)
 * [SI 1095](lab-SI1095.md)
+* [SI 2093](lab-SI2093.md)
 
 ## Tivoli Student Union
 * [TV 225](lab-TV225.md)

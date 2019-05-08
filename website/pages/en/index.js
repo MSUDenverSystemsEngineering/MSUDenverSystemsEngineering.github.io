@@ -200,7 +200,7 @@ class Index extends React.Component {
       return (
         <div className="productShowcaseSection paddingBottom">
           <h2>Who is Doing This?</h2>
-          <p>These docs are being maintained the MSU Denver Systems Engineers</p>
+          <p>These docs are being maintained the MSU Denver Systems Engineers.</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
