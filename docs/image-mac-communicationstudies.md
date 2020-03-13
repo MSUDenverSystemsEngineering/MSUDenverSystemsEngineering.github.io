@@ -1,5 +1,5 @@
 ---
-title: Art
+title: Communication Studies
 ---
 
 ## Operating System

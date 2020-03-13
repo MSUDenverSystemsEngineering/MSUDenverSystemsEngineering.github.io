@@ -1,11 +1,9 @@
 ---
-id: mac-technicalcommunication
 title: Technical Communication
-sidebar_label: Technical Communication
 ---
 
 ## Operating System
-macOS High Sierra 10.13.6
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

@@ -1,11 +1,9 @@
 ---
-id: mac-dimedenver
 title: DIME Denver
-sidebar_label: DIME Denver
 ---
 
 ## Operating System
-macOS Mojave 10.14.4
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

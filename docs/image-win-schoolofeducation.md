@@ -1,7 +1,5 @@
 ---
-id: win-schoolofeducation
 title: School of Education
-sidebar_label: School of Education
 ---
 
 ## Operating System

@@ -1,7 +1,5 @@
 ---
-id: mac-recordingbooth
 title: Recording Booth
-sidebar_label: Recording Booth
 ---
 
 ## Operating System

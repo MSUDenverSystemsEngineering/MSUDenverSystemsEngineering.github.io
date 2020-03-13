@@ -1,11 +1,9 @@
 ---
-id: mac-digitalmedia
 title: Digital Media
-sidebar_label: Digital Media
 ---
 
 ## Operating System
-macOS High Sierra 10.13.6
+macOS Catalina 10.15.2
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

@@ -1,11 +1,9 @@
 ---
-id: mac-music
 title: Music
-sidebar_label: Music
 ---
 
 ## Operating System
-OS X El Capitan 10.11.6
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

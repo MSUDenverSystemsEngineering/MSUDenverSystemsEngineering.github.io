@@ -1,11 +1,9 @@
 ---
-id: mac-generallabs
 title: General Labs
-sidebar_label: General Labs
 ---
 
 ## Operating System
-macOS Mojave 10.14.4
+macOS Catalina 10.15.2
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

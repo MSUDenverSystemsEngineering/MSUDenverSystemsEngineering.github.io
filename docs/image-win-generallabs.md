@@ -1,7 +1,5 @@
 ---
-id: win-generallabs
 title: General Labs
-sidebar_label: General Labs
 ---
 
 ## Operating System

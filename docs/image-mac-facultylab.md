@@ -1,11 +1,9 @@
 ---
-id: mac-facultylab
 title: ITS Faculty Lab
-sidebar_label: Faculty Lab
 ---
 
 ## Operating System
-macOS Mojave 10.14.4
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

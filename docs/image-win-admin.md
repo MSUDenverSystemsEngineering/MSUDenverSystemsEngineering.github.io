@@ -1,6 +1,5 @@
 ---
-id: win-admin
-title: Admin Image
+title: Windows Admin Image
 sidebar_label: Admin Image
 ---
 

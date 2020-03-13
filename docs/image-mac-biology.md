@@ -1,11 +1,9 @@
 ---
-id: mac-biology
 title: Biology
-sidebar_label: Biology
 ---
 
 ## Operating System
-macOS Mojave 10.14.4
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)

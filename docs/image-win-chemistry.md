@@ -1,7 +1,5 @@
 ---
-id: win-chemistry
 title: Chemistry
-sidebar_label: Chemistry
 ---
 
 ## Operating System

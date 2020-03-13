@@ -1,11 +1,10 @@
 ---
-id: mac-admin
-title: Admin Image
+title: macOS Admin Image
 sidebar_label: Admin Image
 ---
 
 ## Operating System
-macOS Mojave 10.14.4
+macOS Catalina 10.15.3
 
 ## Applications
 * [Microsoft Office](software-mac-microsoftoffice.md)

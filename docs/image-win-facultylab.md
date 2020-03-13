@@ -1,7 +1,5 @@
 ---
-id: win-facultylab
 title: ITS Faculty Lab
-sidebar_label: Faculty Lab
 ---
 
 ## Operating System

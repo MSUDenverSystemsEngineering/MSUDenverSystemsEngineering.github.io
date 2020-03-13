@@ -1,11 +1,9 @@
 ---
-id: mac-photography
 title: Photography
-sidebar_label: Photography
 ---
 
 ## Operating System
-macOS High Sierra 10.13.6
+macOS Mojave 10.14.6
 
 ## Applications
 * [Audacity](software-mac-audacity.md)
